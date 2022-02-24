@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/tower.jpg</file>
+        <file>images/title.png</file>
+        <file>images/Exit.png</file>
+        <file>images/Load Game.png</file>
+        <file>images/New Game.png</file>
+        <file>images/Exit_hover.png</file>
+        <file>images/Load Game_hover.png</file>
+        <file>images/New Game_hover.png</file>
+        <file>images/Difficulty.png</file>
+        <file>images/easy.png</file>
+        <file>images/Hard.png</file>
+        <file>images/left.png</file>
+        <file>images/left_hover.png</file>
+        <file>images/Normal.png</file>
+        <file>images/right.png</file>
+        <file>images/right_hover.png</file>
+        <file>images/Floors.png</file>
+        <file>images/Start Game.png</file>
+        <file>images/Start Game_hover.png</file>
+        <file>images/Next.png</file>
+        <file>images/Next_hover.png</file>
+        <file>images/Save.png</file>
+        <file>images/Save_hover.png</file>
+        <file>images/Start.png</file>
+        <file>images/Start_hover.png</file>
+        <file>images/tower2.jpg</file>
+        <file>images/shopkeeper.png</file>
+        <file>images/shopbackground.png</file>
+        <file>images/floor.png</file>
+        <file>images/Equipment.png</file>
+        <file>images/Equipment_hover.png</file>
+        <file>images/Items.png</file>
+        <file>images/Items_hover.png</file>
+        <file>images/Next Floor.png</file>
+        <file>images/Next Floor_hover.png</file>
+        <file>images/Start Battle.png</file>
+        <file>images/Start Battle_hover.png</file>
+        <file>images/Status.png</file>
+        <file>images/Status_hover.png</file>
+        <file>images/Choose.png</file>
+        <file>images/Back.png</file>
+        <file>images/Back_hover.png</file>
+        <file>images/Use.png</file>
+        <file>images/Use_hover.png</file>
+        <file>images/knight.png</file>
+        <file>images/ATK.png</file>
+        <file>images/Current floor.png</file>
+        <file>images/DEF.png</file>
+        <file>images/exp.png</file>
+        <file>images/funds.png</file>
+        <file>images/HP.png</file>
+        <file>images/Level.png</file>
+        <file>images/MP.png</file>
+        <file>images/Name.png</file>
+        <file>images/Total floors.png</file>
+        <file>images/AP.png</file>
+        <file>images/Add Action.png</file>
+        <file>images/Add Action_hover.png</file>
+        <file>images/Delete Action.png</file>
+        <file>images/Delete Action_hover.png</file>
+        <file>images/End Round.png</file>
+        <file>images/End Round_hover.png</file>
+        <file>images/Flee.png</file>
+        <file>images/Flee_hover.png</file>
+        <file>images/Swap Action.png</file>
+        <file>images/Swap Action_hover.png</file>
+        <file>images/Boss.png</file>
+        <file>images/StrongEnemy.png</file>
+        <file>images/WeakEnemy.png</file>
+        <file>images/knight back.png</file>
+        <file>images/Skill.png</file>
+        <file>images/Skill_hover.png</file>
+        <file>images/Delete.png</file>
+        <file>images/Delete_hover.png</file>
+        <file>images/Swap.png</file>
+        <file>images/Swap_hover.png</file>
+        <file>images/BattleBackground.png</file>
+        <file>images/shopboard.png</file>
+        <file>images/Select.png</file>
+        <file>images/Select_hover.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

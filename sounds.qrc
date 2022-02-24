@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>sounds/backgroundmusic.mp3</file>
+        <file>sounds/click.mp3</file>
+        <file>sounds/initialtheme.mp3</file>
+        <file>sounds/battletheme.mp3</file>
+        <file>sounds/shop.mp3</file>
+        <file>sounds/Victory.mp3</file>
+        <file>sounds/floor.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
